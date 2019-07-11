@@ -1,0 +1,6 @@
+.leaflet-container {
+    height: 900px;
+    width: 90%;
+    margin-left: 5%;
+    border-radius:15px;
+  }
